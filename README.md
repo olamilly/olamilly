@@ -3,11 +3,11 @@ I'm a fullstack developer.
 I started coding competitively at 13, now i'm into web dev and cloud solutions; however, I am still young and learning!
 
 *    Currently I am:
-     -Learning AWS
-     -Grinding Leetcode
-     -Self teaching AI/ML
+     - Learning AWS
+     - Grinding Leetcode
+     - Self teaching AI/ML
 
-###My Tech Stack:
+### My Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,py,php,cpp,cs,git,laravel,dotnet,aws)](https://skillicons.dev)
 
 🤔 I’m looking for mentors and internships.
