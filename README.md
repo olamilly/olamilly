@@ -3,6 +3,7 @@ I'm a fullstack developer.
 I started coding competitively at 13, now i'm into web dev and cloud solutions; however, I am still young and learning!
 
 *    Currently I am:
+     - Building web apps
      - Learning AWS
      - Grinding Leetcode
      - Self teaching AI/ML
